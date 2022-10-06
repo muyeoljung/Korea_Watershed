@@ -23,3 +23,5 @@ There are two ways to access the system.
 * https://water.nier.go.kr/web
 * They provide environmental data in water such as water quality, biological indicator monitoring data in rivers.
 
+### 한국지질자원연구원: 온라인 지질도
+* https://data.kigam.re.kr/map/
